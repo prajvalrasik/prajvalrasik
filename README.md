@@ -1,6 +1,6 @@
 ## Hi I'm Prajval <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Prajval Rasik a Full Stack React Js Developer and a freelancer. I drink coffee a lot and I'm currently learning blockchain development !!
+I am in the middle of Data Science and Product Management, i.e. I can write AI applications and even run the business side of things!!
 
 :mailbox: Reach me out!
 
@@ -8,7 +8,7 @@ I'm Prajval Rasik a Full Stack React Js Developer and a freelancer. I drink coff
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a student and working as a freelancer.
+- 🔭 I’m doing a variety of things.
 - :computer: Most used line of code `git commit -m "First Commit"`
 - 😄 I’m looking for adding value to small startups.
 - 📫 How to reach me: im.praj.official@gmail.com.
